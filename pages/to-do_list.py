@@ -8,7 +8,7 @@ PAGE_BG_STYLE = """
     background-image: url("https://images.unsplash.com/photo-1742336960947-d70838aa9614");
     background-size: cover;
 }
-[data-testid="stAppViewBlockContainer"] {
+[data-testid="stMainBlockContainer"] {
     background-color: #262626;
     border: 2px solid #555555; /* Light grey border */
     border-radius: 15px; /* Rounded corners */
