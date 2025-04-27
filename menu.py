@@ -7,7 +7,7 @@ st.html("""<style>[data-testid='stHeaderActionElements'] {display: none;}
 
 st.title('Portfolio')
 
-img_url = r'https://github.com/RadkaMat/Streamlit_apps/blob/master/web_app_data/to_do_list_img_big.jpg?raw=true'
+img_url = r'https://github.com/RadkaMat/Portfolio/blob/main/images/to_do_list_img.jpg?raw=true'
 
 col1, col2 = st.columns(2)
 
